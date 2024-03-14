@@ -147,6 +147,41 @@ Successful compilation of the contract `KaseiCoinCrowdsale`
 
 ![Screenshot 2024-03-13 at 3 25 27 PM](https://github.com/ikafit808/Martian-Token-Crowdsale21/assets/142754993/3e016b5a-4cf9-4843-b7f0-3866811598a3)
 
+Deploy and run transaction
+
+![Screenshot3](https://github.com/ikafit808/Martian-Token-Crowdsale21/assets/142754993/5eecb2ea-0fdc-4e6b-aa44-e3c0707d6178)
+
+![Screenshot4](https://github.com/ikafit808/Martian-Token-Crowdsale21/assets/142754993/2bd3578f-6dee-4d7b-a202-afaf04535091)
+
+Ganache and account balances
+
+![Screenshot5](https://github.com/ikafit808/Martian-Token-Crowdsale21/assets/142754993/0ac83109-2488-4386-b8ed-b8221cbe5cfd)
+
+![Screenshot6](https://github.com/ikafit808/Martian-Token-Crowdsale21/assets/142754993/27fbc067-0350-468a-81bc-8ea7a58e2798)
+
+![Screenshot8](https://github.com/ikafit808/Martian-Token-Crowdsale21/assets/142754993/054a1edf-342e-4fda-90a5-09270d2d1232)
+
+![Screenshot7](https://github.com/ikafit808/Martian-Token-Crowdsale21/assets/142754993/9156e6cc-c5b6-434a-b9cc-30c926d15291)
+
+Metamask accounts
+
+![Screenshot9](https://github.com/ikafit808/Martian-Token-Crowdsale21/assets/142754993/2a067db1-2814-46f7-af2e-d54e8a4850e4)
+
+![Screenshot10](https://github.com/ikafit808/Martian-Token-Crowdsale21/assets/142754993/7c92e691-1c11-4711-b778-b13a72a6956b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
